@@ -4,7 +4,7 @@ This project was designed to allow users to see if they've posted any instagram 
 
 ![pic](igpic.jpg)
 
-Link to project:
+Link to project: https://rakimdevcraig.github.io/InstagramAPI/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript,
